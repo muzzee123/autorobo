@@ -30,7 +30,7 @@
         "@types/xlsx": "0.0.36",
         "angular2-jwt": "^0.2.3",
         "angular5-data-table": "^1.0.3",
-        "bootstrap": "^4.0.0",
+        "bootstrap": "^4.3.1",
         "chart.js": "^2.7.2",
         "core-js": "^2.5.7",
         "font-awesome": "^4.7.0",
